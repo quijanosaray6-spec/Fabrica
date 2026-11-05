@@ -7,7 +7,7 @@ class Empleado(Objeto):
         self.cargo = cargo
         self.turno = turno
         self.experiencia = experiencia
-        self.trabajando = trabajando
+        self.trabajando =trabajando
 
     def mostrar_empleado(self):
         print("Documento:", slef.documento)
